@@ -2,3 +2,4 @@ pandas
 pdfplumber
 requests
 bs4
+st_aggrid
