@@ -37,7 +37,7 @@ def extract_fecha_firma(text):
 
 def normalize_dataframe(df):
 
-    column_order = ['referencia_interna', "puesto", 'titulo_proyecto',
+    column_order = ['referencia_interna', "fecha de publicacion", "puesto", 'titulo_proyecto',
                     'fecha_inicio_contrato', 'fecha_inicio_proyecto',
      'fecha_fin_proyecto', 'entidad_financiadora', 'investigador_principal',
      'centro', 'num_plazas', 'nivel_formativo',
@@ -158,15 +158,18 @@ class ConvocatoriaReader:
         self.date = extract_fecha_firma(self.text)
 
     def get_offers(self):
-        self.offers = pd.DataFrame(parse_offers(self.text))
+        # parse_offers doit retourner une liste de dictionnaires
+        ofertas = parse_offers(self.text)
+        self.offers = pd.DataFrame(ofertas)
+        self.offers["fecha de publicacion"] = self.date.strftime("%d-%m-%Y")  # sera répétée pour toutes les lignes
         self.offers = normalize_dataframe(self.offers)
 
     def export_csv(self):
         self.offers.to_csv("offers.csv", index=False)
 
 if __name__ == '__main__':
-    pdf_path = "urjc/CP2303-5160_2_ca.pdf"
+    pdf_path = "urjc/Vice_Inv_Inn_05-25_ca.pdf"
     #pdf_path = "uam/uam_convocatoria.pdf"
     reader = ConvocatoriaReader(pdf_path)
-    # reader.get_offers()
+    reader.get_offers()
     # reader.export_csv()
