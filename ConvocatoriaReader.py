@@ -37,12 +37,12 @@ def extract_fecha_firma(text):
 
 def normalize_dataframe(df):
 
-    column_order = ['referencia_interna', "fecha de publicacion", "puesto", 'titulo_proyecto',
-                    'fecha_inicio_contrato', 'fecha_inicio_proyecto',
-     'fecha_fin_proyecto', 'entidad_financiadora', 'investigador_principal',
+    column_order = ["fecha de publicacion", "puesto", 'titulo_proyecto',
+                    'fecha_inicio_contrato', 'investigador_principal',
      'centro', 'num_plazas', 'nivel_formativo',
-     'salario_bruto_mensual', 'duracion_inicial',
-     'dedicacion', 'tipo_contrato']
+     'salario_bruto_mensual','entidad_financiadora', 'duracion_inicial', 'fecha_inicio_proyecto',
+     'fecha_fin_proyecto',
+     'dedicacion', 'tipo_contrato', "referencia interna"]
 
     for col in column_order:
         if col not in df.columns:
