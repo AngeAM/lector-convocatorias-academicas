@@ -12,30 +12,27 @@ mapping = {
     }
 
 class OfferMerger:
-    def __init__(self):
-        self.list_df_offers = []
-        self.df_offers = None
-        self.pdfs_urjc = glob.glob("urjc/*.pdf")
-        self.list_creader = []
-        self.list_date = []
-        for pdf in self.pdfs_urjc:
-            reader = ConvocatoriaReader(pdf)
-            self.list_creader.append(reader)
-            self.list_date.append(reader.date)
+    def __init__(self, uni_list):
+        self.date = {}
+        self.creader = {}
+        self.merged_offers = {}
+        for uni in uni_list:
+            pdfs_u = glob.glob(uni + "/*.pdf")
+            list_date = []
+            list_offer = []
+            for pdf in pdfs_u:
+                reader = ConvocatoriaReader(pdf)
+                offers, date = reader.get_offers()
+                list_offer.append(offers)
+                list_date.append(reader.date)
+
+            if reader.date is not None:
+                list_offer = [c for _, c in sorted(zip(list_date, list_offer))]
+                list_offer.reverse()
+            self.date[uni] = list_date
+            self.merged_offers[uni] = pd.concat(list_offer)
             print(f"Processed {reader.pdf_path}")
-            # Clasificar las convocatorias por fechas
-        self.list_creader.sort(key=lambda x: x.date, reverse=True)
-
-    def get_offers(self):
-        for reader in self.list_creader:
-            print(f"Processing {reader.pdf_path}")
-            reader.get_offers()
-            self.list_df_offers.append(reader.offers)
-        self.df_offers = pd.concat(self.list_df_offers)
-
-
 
 
 if __name__ == '__main__':
-    OfferM = OfferMerger()
-    OfferM.get_offers()
+    offerm = OfferMerger(["ucm", "urjc"])
