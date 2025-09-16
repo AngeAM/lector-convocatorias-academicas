@@ -4,11 +4,11 @@ from OfferMerger import OfferMerger
 from Downloader import *
 
 #
-# urjc_downloader()
-# ucm_downloader()
-# uam_downloader()
-# uc3m_downloader()
-# upm_downloader()
+urjc_downloader()
+ucm_downloader()
+uam_downloader()
+uc3m_downloader()
+upm_downloader()
 
 OfferM = OfferMerger(["urjc", "ucm"])
 

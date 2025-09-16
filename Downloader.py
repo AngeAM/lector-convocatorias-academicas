@@ -211,6 +211,9 @@ def upm_downloader():
     ofertas_upm.to_csv("upm/ofertas_upm.csv", index=False)
 
 
+uam_downloader()
+
+
 
 
 
