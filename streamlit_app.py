@@ -4,11 +4,11 @@ from OfferMerger import OfferMerger
 from Downloader import *
 
 #
-urjc_downloader()
-ucm_downloader()
-uam_downloader()
-uc3m_downloader()
-upm_downloader()
+# urjc_downloader()
+# ucm_downloader()
+# uam_downloader()
+# uc3m_downloader()
+# upm_downloader()
 
 OfferM = OfferMerger(["urjc", "ucm"])
 
@@ -342,6 +342,7 @@ st.markdown("# Ofertas de la Universidad Politecnica de Madrid")
 st.markdown("Enlace HRS4R UPM:"
             "[https://web.upm.es/hrs4r/]"
             "(https://web.upm.es/hrs4r/)")
+st.markdown("La UPM no lista todas las convocatorias en su pagina. Hay ciertas que salen en [EURAXESS](https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=keywords%3Auniversidad%20politecnica%20de%20madrid)")
 col_defs = []
 df = pd.read_csv("upm/ofertas_upm.csv")
 for c in df.columns:
