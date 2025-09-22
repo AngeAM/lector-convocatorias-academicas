@@ -135,7 +135,8 @@ def parse_offers_urjc(text: str):
                     'fecha_fin_proyecto',
                     'dedicacion', 'tipo_contrato', "referencia_interna"]
     # Reorder
-    df = df[column_order]
+    valid_columns = [c for c in column_order if c in df.columns]
+    df = df[valid_columns]
 
     return df, date
 
@@ -236,12 +237,14 @@ def parse_offers_ucm(text: str):
 
     df = pd.DataFrame(plazas)
     column_order = ['titulo_proyecto',  'linea_investigacion', 'centro',
-                    'fecha_inicio_contrato','fecha_fin_contrato',
+                    'fecha_inicio_contrato', "fecha_fin_contrato",
         'tareas','num_plazas', 'investigador_principal',
        'categoria', 'nivel_formativo', 'salario',
         'dedicacion',  'referencia_interna', 'codigo_plaza', ]
     # Reorder
-    df = df[column_order]
+
+    valid_columns = [c for c in column_order if c in df.columns]
+    df = df[valid_columns]
 
     return df
 
