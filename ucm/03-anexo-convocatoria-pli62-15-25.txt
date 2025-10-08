@@ -1,0 +1,598 @@
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-01. (REFERENCIA PLAZA: PLZ_PLI00002041)
+LÍNEA DE INVESTIGACIÓN: El cono nilpotente para orbifolds.
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: PCI2024-155109-2
+PROYECTO DE INVESTIGACIÓN: Very-Stability, Hecke transforms, and Representation Varieties in the
+Presence of
+symmetry
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL: VICENTE MUÑOZ VELAZQUEZ
+DEPARTAMENTO INCORPORACIÓN: Álgebra, Geometría y Topología.
+CENTRO: F.CC.MATEMATICAS.
+CATEGORÍA: Contratado tipo 3.
+TITULACIÓN REQUERIDA: Grado en matemáticas
+Máster en matemáticas
+TAREAS A REALIZAR: Estudio del cono nilpotente para orbifolds, con especial atencion a la identificacion
+de fibrados wobbly y muy estables.
+MÉRITOS A VALORAR: Licenciatura o grado en Matematicas, master en matematicas, expediente y
+adecuacion de los cursos obtenidos en especial del TFM. Entrevista personal
+FECHA INICIO CONTRATO, A PARTIR DE: 01/01/2026.
+DEDICACIÓN: Jornada Completa Mañana y/o Tarde. (37.5 horas)
+Página 1 de 2
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-02. (REFERENCIA PLAZA: PLZ_PLI00001957)
+LÍNEA DE INVESTIGACIÓN: Línea de Contratación de Gestores.
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: Convenio Plurianual CAM-UCM 2023-2026 -VI PRICIT
+PROYECTO DE INVESTIGACIÓN: CONVENIO ENTRE LA COMUNIDAD DE MADRID Y LA UNIVERSIDAD
+COMPLUTENSE DE MADRID PARA LA CONCESION DE UNA SUBVENCION DIRECTA PARA EL
+FOMENTO Y PROMOCIÓN DE LA INVESTIGACIÓN Y LA TRANSFERENCIA DE TECNOLOGÍA
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL: LUCIA DE JUAN FERRE
+DEPARTAMENTO INCORPORACIÓN: OTRI.
+CENTRO: VICEG. INVESTIGACIÓN.
+CATEGORÍA: Contratado tipo 2.
+TITULACIÓN REQUERIDA: Licenciatura o Grado + Máster
+TAREAS A REALIZAR: - Elaboración de programas de formación y acompañamiento para la creación de
+ETCU. Incubación, aceleración y escalado.
+- Visibilización y comercialización de las ECTUs, Patentes y Tecnologías en Ferias, eventos o jornadas.
+- Actualización de catálogos y de la oferta científico-técnica (fichas Complutransfer).
+- Búsqueda de financiación mediante la participación en convocatorias. Gestión de la ejecución del proyecto,
+elaboración de memorias y gestión administrativa..
+MÉRITOS A VALORAR: Inglés Medio (nivel B2)
+Formación específica en innnovación y empredimiento
+Experiencia laboral en empresas con proyectos de innovación.
+Disponibilidad para viajar.
+Página 1 de 2
+FECHA INICIO CONTRATO, A PARTIR DE: 24/11/2025.
+DEDICACIÓN: Jornada Completa Mañana. (37.5 horas)
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-03. (REFERENCIA PLAZA: PLZ_PLI00002053)
+LÍNEA DE INVESTIGACIÓN: Estudiar la eficacia de los juegos serios utilizando modelos de analítica del
+aprendizaje y continuar con el desarrollo de herramientas que puedan impulsar la adopción de juegos serios
+en entornos educativos..
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: PID2023-149341OB-I00
+PROYECTO DE INVESTIGACIÓN: Sistematización de la analitica inteligente integrada de aprendizaje en
+juegos
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL:
+DEPARTAMENTO INCORPORACIÓN: Ing. Software e Inteligencia Artificial.
+CENTRO: F.INFORMATICA.
+CATEGORÍA: Contratado tipo 1.
+TITULACIÓN REQUERIDA: Grado en Desarrollo de Videojuegos o Grado en Ingeniería Informática
+TAREAS A REALIZAR: WP1 - Desarrollo y mantenimiento de juegos serios desarrollados con Phaser3. En
+concreto los juegos Conectado, La Entrevista y JustShare.
+WP2 - Integración de analíticas de aprendizaje en juego serios y desarrollo una librería de telemetría en C#
+que pueda integrarse en juegos desarrollados con Unity.
+WP3 - Desarrollo de analíticas de aprendizaje de juegos e integración en la plataforma del grupo e-ucm,
+SIMVA.
+WP4 - Diseño y desarrollo de un prototipo de editor web para juegos del género de las aventuras gráficas..
+MÉRITOS A VALORAR: Experiencia en juegos serios.
+Experiencia en desarrollo web, Phaser y Unity.
+Conocimiento sobre el estándar xAPI.
+Experiencia aplicando telemetría y analíticas de aprendizaje.
+Idiomas: Inglés C1
+Página 1 de 2
+ANTONIO CALVO MORATA BALTASAR FERNANDEZ MANJON
+FECHA INICIO CONTRATO, A PARTIR DE: 24/11/2025.
+DEDICACIÓN: Jornada Parcial 25 h.Mañana y/o Tarde. (25.0 horas)
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-04. (REFERENCIA PLAZA: PLZ_PLI00002056)
+LÍNEA DE INVESTIGACIÓN: Crecimiento de capas magnetoelásticas crecida por electrodeposición.
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: PID2021-122980OB-C51
+PROYECTO DE INVESTIGACIÓN: Estudios de fenómenos atomísticos en materiales multifuncionales a
+través de técnicas in-situ
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL:
+DEPARTAMENTO INCORPORACIÓN: Física de Materiales.
+CENTRO: F.CC.FISICAS.
+CATEGORÍA: Titulados Universitarios de grado medio.
+TITULACIÓN REQUERIDA: Diplomatura, Ingeniería Técnica, Arquitectura Técnica o Grado de menos de 240
+ECTS
+TAREAS A REALIZAR: Se realizarán tareas de: crecimiento por electrodeposición de películas delgadas
+magnetoelásticas (1 mes). Se realizará caracterización de difracción de rayos-X de dichas películas para
+comprobar su calidad cristalina (1 mes). Aquellas muestras que tengan la calidad suficiente, serán
+caracterizadas mediante MOKE para el posterior análisis de los resultados experimentales obtenidos (4
+meses).
+MÉRITOS A VALORAR: 1) Habilidades en el crecimiento por electrodeposición
+2) Conocimiento en la técnica de caracterización MOKE
+3) Conocimiento en análisis de patrones de difracción de rayos-X
+4) Conocimiento en el análisis de ciclos de histéresis obtenidos por MOKE
+FECHA INICIO CONTRATO, A PARTIR DE: 24/11/2025.
+Página 1 de 2
+MARIA VARELA DEL ARCO JUAN IGNACIO BELTRAN FINEZ
+DEDICACIÓN: Jornada Parcial 18,45 h.Mañana. (18.45 horas)
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-05. (REFERENCIA PLAZA: PLZ_PLI00002014)
+LÍNEA DE INVESTIGACIÓN: Desarrollo de una formulación mucoadhesiva en nanovehículos con extractos
+naturales.
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: BIOTICAL HEALTH S.L.U. (420-2025)
+PROYECTO DE INVESTIGACIÓN: Desarrollo de una formulación mucoadhesiva en nanovehículos con
+extractos naturales
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL: DOLORES REMEDIOS SERRANO LOPEZ
+DEPARTAMENTO INCORPORACIÓN: Farmacia Galénica y Tecnol. Alimentaria.
+CENTRO: F.FARMACIA. Departamento de Microbiología y Parasitología
+CATEGORÍA: Contratado posdoctoral tipo 1.
+TITULACIÓN REQUERIDA: Doctor en Farmacia
+TAREAS A REALIZAR: Etapa 1 Determinación in vitro de la eficacia antimicrobiana (CMI) en caldo de 10
+(diez) extractos frente a diferentes cepas microbianas. Etapa 2 Evaluación de la actividad sinérgica de 3 (tres)
+extractos en combinación. Selección de los extractos más activos frente a S. pyogenes; Etapa 3 Desarrollo de
+una formulación mucoadhesiva en nanovehículos con la combinación de extractos más efectiva; Etapa 4
+Evaluación de la toxicidad de los extractos combinados y nanoencapsulados frente a fibroblastos y
+macrófagos..
+MÉRITOS A VALORAR: Experiencia en el desarrollo de formulaciones farmaceúticas
+Experiencia en técnicas microbiológicas como la determinación de CMI in vitro
+Experiencia en cultivos celulares in vitro
+FECHA INICIO CONTRATO, A PARTIR DE: 01/12/2025.
+Página 1 de 2
+DEDICACIÓN: Jornada Completa Partida. (37.5 horas)
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-06. (REFERENCIA PLAZA: PLZ_PLI00001993)
+LÍNEA DE INVESTIGACIÓN: Ingenieria de Superficies y recubrimientos protectores.
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: 101174399
+PROYECTO DE INVESTIGACIÓN: Scalable manufacturing of bio-inspired & bio-based Graphene Foam
+components of extreme performance
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL: FRANCISCO JAVIER PEREZ TRUJILLO
+DEPARTAMENTO INCORPORACIÓN: Ingeniería Química y de Materiales.
+CENTRO: F.CC. QUIMICAS.
+CATEGORÍA: Contratado posdoctoral tipo 1.
+TITULACIÓN REQUERIDA: Doctor (Especialidad en Corrosion a Elevada Temperatura)
+TAREAS A REALIZAR:
+1.- Estudios termodinámicos de corrosion.
+2.- Diseño de recubrimientos protectores por CVD en lecho
+fluidizado
+3.- Producción de recubrimientos a nivel de laboratorio.
+4.- Simulacion de corrosión en distintas atmosferas
+5.- Asistencia a Congresos
+Se estima que estas tareas quedarán finalizadas a 23/11/2026
+.
+MÉRITOS A VALORAR: Doctor en el área de materiales para elevada temperatura y de corrosión a elevada
+temperatura
+FECHA INICIO CONTRATO, A PARTIR DE: 24/11/2025.
+Página 1 de 2
+DEDICACIÓN: Jornada Completa Mañana y/o Tarde. (37.5 horas)
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-07. (REFERENCIA PLAZA: PLZ_PLI00002047)
+LÍNEA DE INVESTIGACIÓN: Identificación taxonómica de arañas de cauces secos de ríos mediterráneos.
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: PID2021-126143OB-C22
+PROYECTO DE INVESTIGACIÓN: Herramientas avanzadas para la evaluación del estado ecológico de ríos
+temporales mediterráneos durante la fase seca: Indicadores de la fase seca para el estado ecológico
+Advanced tools for the assessment of the ecological status of Mediterranean tempo
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL: MARIA DEL MAR SANCHEZ MONTOYA
+DEPARTAMENTO INCORPORACIÓN: Biodiversidad, Ecología y Evolución.
+CENTRO: F.CC.BIOLOGICAS.
+CATEGORÍA: Contratado tipo 2.
+TITULACIÓN REQUERIDA:Licienciado/a en Biología o Grado en Biología con Máster
+TAREAS A REALIZAR: · Procesado de muestras en laboratorio de invertebrados terrestres para su posterior
+identificación.
+· Identificación taxonómica a nivel de de especie de arañas recolectadas.
+· Preparación de bases de datos de las identificaciones de arañas.
+Se estima que estas tareas quedarán finalizadas el día 30/06/2026..
+MÉRITOS A VALORAR: · Conocimientos específicos en Ecología Terrestre y Limnología (máximo 10%)
+· Experiencia extensa en proyectos científico-técnicos sobre ecología y medio ambiente en el ámbito de la
+gestión y conservación de comunidades animales y vegetales (máximo 10%)
+· Experiencia extensa en identificación taxonómica de arañas (máximo 65%).
+· Publicaciones en revistas científicas sobre ecología de comunidades de invertebrados terrestres, con
+especial énfasis en arañas, en ecosistemas terrestres y acuáticos (máximo 15%).
+FECHA INICIO CONTRATO, A PARTIR DE: 01/12/2025.
+Página 1 de 2
+DEDICACIÓN: Jornada Parcial 18,45 h.Mañana. (18.45 horas)
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-08. (REFERENCIA PLAZA: PLZ_PLI00002059)
+LÍNEA DE INVESTIGACIÓN: Simulacion de transiciones liquido-solido en condensados biomoleculares.
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: 101160499
+PROYECTO DE INVESTIGACIÓN: Multiscale modelling of aberrant phase transitions in biocondensates
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL: JORGE REÑE ESPINOSA
+DEPARTAMENTO INCORPORACIÓN: Química Física.
+CENTRO: F.CC. QUIMICAS.
+CATEGORÍA: Contratado tipo 3.
+TITULACIÓN REQUERIDA: Grado en Químicas y Master en Químicas.
+TAREAS A REALIZAR:
+MÉRITOS A VALORAR: Experiencia en simulación a través de un TFG, TFM o practicas en empresas
+usando dinámica molecular de proteinas.
+FECHA INICIO CONTRATO, A PARTIR DE: 24/11/2025.
+DEDICACIÓN: Jornada Parcial 25 h.Mañana. (25.0 horas)
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+Página 1 de 2
+Durante los 2 primeros meses se harán: Simulaciones fuera del equilibrio de
+condensados de proteínas. Durante los 2 siguientes: Evaluación de interacciones moleculares y análisis de
+secuencias relevantes. Finalmente, durante los 2 últimos meses: Recopilación, análisis e interpretación de
+los resultados obtenidos, así como de un artículo científico.
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-09. (REFERENCIA PLAZA: PLZ_PLI00002089)
+LÍNEA DE INVESTIGACIÓN: Protonterapia.
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: PID2021-124094OA-I00
+PROYECTO DE INVESTIGACIÓN: Radiobiología de la protonterapia a tasas FLASH estudiada en un modelo
+de cáncer de pulmón.
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL: DANIEL SANCHEZ PARCERISA
+DEPARTAMENTO INCORPORACIÓN: Estr. Materia, Fis. Térmica, Electrónica.
+CENTRO: F.CC.FISICAS.
+CATEGORÍA: Contratado tipo 3.
+TITULACIÓN REQUERIDA: Grado en Física o Ingeniería Biomédica + Máster en Física Biomédica o Física
+Nuclear
+TAREAS A REALIZAR: Planificación y desarrollo de experimentos de radiobiología, incluyendo desarrollo de
+instrumentación y análisis de resultados..
+MÉRITOS A VALORAR: Experiencia en experimentos con radiaciones ionizantes. Experiencia en técnicas
+experimentales en biología molecular. Conocimientos de Simulación Monte Carlo. Conocimientos de
+tratamiento de imágenes de microscopía. Experiencia en presentación de resultados científicos.
+Conocimientos de dosimetría. Se valorarán estudios cursados en áreas directamente relacionadas con la
+titulación exigida en la presente convocatoria.
+FECHA INICIO CONTRATO, A PARTIR DE: 09/12/2025.
+DEDICACIÓN: Jornada Parcial 25 h.Partida. (25.0 horas)
+Página 1 de 2
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-10. (REFERENCIA PLAZA: PLZ_PLI00002098)
+LÍNEA DE INVESTIGACIÓN: Protonterapia.
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: PID2021-124094OA-I00
+PROYECTO DE INVESTIGACIÓN: Radiobiología de la protonterapia a tasas FLASH estudiada en un modelo
+de cáncer de pulmón.
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL: DANIEL SANCHEZ PARCERISA
+DEPARTAMENTO INCORPORACIÓN: Estr. Materia, Fis. Térmica, Electrónica.
+CENTRO: F.CC.FISICAS.
+CATEGORÍA: Contratado tipo 3.
+TITULACIÓN REQUERIDA: Grado en Física o Ingeniería Biomédica + Máster en Física Biomédica o Física
+Nuclear
+TAREAS A REALIZAR: Planificación y desarrollo de experimentos de radiobiología, incluyendo desarrollo de
+instrumentación y análisis de resultados..
+MÉRITOS A VALORAR: Experiencia en experimentos con radiaciones ionizantes. Experiencia en diseño e
+impresión 3D. Experiencia en Simulación Monte Carlo. Experiencia en presentación de resultados científicos.
+Conocimientos de dosimetría. Se valorarán estudios cursados en áreas directamente relacionadas con la
+titulación exigida en la presente convocatoria.
+FECHA INICIO CONTRATO, A PARTIR DE: 09/12/2025.
+DEDICACIÓN: Jornada Parcial 25 h.Partida. (25.0 horas)
+Página 1 de 2
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-11. (REFERENCIA PLAZA: PLZ_PLI00002140)
+LÍNEA DE INVESTIGACIÓN: Umbrales y resiliencia de la estructura y funcionamiento ecosistémico ante el
+Cambio Global.
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: PID2023-149907NA-I00
+PROYECTO DE INVESTIGACIÓN: Transicionando umbrales. Implicaciones, irreversibilidad y procesos
+involucrados en transformaciones ecosistemicas
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL: MIGUEL BERDUGO VEGA
+DEPARTAMENTO INCORPORACIÓN: Biodiversidad, Ecología y Evolución.
+CENTRO: F.CC.BIOLOGICAS.
+CATEGORÍA: Contratado tipo 1.
+TITULACIÓN REQUERIDA: Grado de menos de 240 o titulación extranjera equivalente
+TAREAS A REALIZAR:
+MÉRITOS A VALORAR: Experiencia en el desarrollo de experimentos de cambio climático. Conocimientos de
+edafología. Experiencia en laboratorio de química y/o biologías molecular con análisis de muestras de suelo.
+Experiencia organizativa en laboratorios. Motivación por perseguir una carrera investigadora.
+FECHA INICIO CONTRATO, A PARTIR DE: 01/12/2025.
+DEDICACIÓN: Jornada Completa Partida. (37.5 horas)
+Página 1 de 2
+Muestreo de suelos en campo. Análisis físico químico de suelos. Extracción de ADN
+e interpretación de datos de la subsequente secuenciación. Manutención de un experimento al aire libre de
+Cambio Climático. Análisis de las muestras de suelo de este experimento.
+Estas tareas está previsto que finalicen el 30/11/2027
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-12. (REFERENCIA PLAZA: PLZ_PLI00002158)
+LÍNEA DE INVESTIGACIÓN: Arqueomagnetismo durante la transición Bronce-Hierro. Obtención de nuevos
+datos arqueomagnéticos.
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: PID2023-148666NB-I00
+PROYECTO DE INVESTIGACIÓN: Caracterizando el último impulso del campo paleomagnético
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL:
+DEPARTAMENTO INCORPORACIÓN: Física de la Tierra y Astrofísica.
+CENTRO: F.CC.FISICAS.
+CATEGORÍA: Contratado tipo 3.
+TITULACIÓN REQUERIDA: Graduado en Ciencias Físicas o Matemáticas. Master en Meteorología y
+Geofísica
+TAREAS A REALIZAR: Recolección, preparación y medida de la magnetización de muestras
+arqueomagnéticas. Análisis de los resultados. Datación arqueomagnética. Se analizarán los datos de, al
+menos, 5 estructuras arqueológicas de combustión. Las tareas finalizarán el 23 del 11 del 2026.
+MÉRITOS A VALORAR: 1)Experiencia en medidas de paleointensidad 2)Experiencia en trabajo de campo
+arqueomagnético. 3) Experiencia en la interpretación de datos arqueomagnéticos.
+FECHA INICIO CONTRATO, A PARTIR DE: 24/11/2025.
+DEDICACIÓN: Jornada Parcial 25 h.Partida. (25.0 horas)
+Página 1 de 2
+FATIMA MARTIN HERNANDEZ MARIA LUISA OSETE LOPEZ
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-13. (REFERENCIA PLAZA: PLZ_PLI00002101)
+LÍNEA DE INVESTIGACIÓN: Utilización de técnicas de interacción humano-computadora para la compresión
+y personalización de la inteligencia artificial explicable..
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: PR17/24-31890
+PROYECTO DE INVESTIGACIÓN: SHOU-X: UtiliSing Human-computer interaction approaches for Optimal
+Understanding in eXplainable artificial intelligence
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL: MARTA CARO MARTINEZ
+DEPARTAMENTO INCORPORACIÓN: Ing. Software e Inteligencia Artificial.
+CENTRO: F.INFORMATICA.
+CATEGORÍA: Contratado tipo 1.
+TITULACIÓN REQUERIDA: Grado en Ingeniería Informática y/o Grado en Matemáticas.
+TAREAS A REALIZAR: - Estudio de sinergias entre inteligencia artificial explicable y human computer
+interaction.
+- Utilización de Large Language Models y Case-Based Reasoning para personalizar explicaciones.
+- Evaluación de sistemas de explicación, con y sin usuarios.
+- Documentación de resultados científicos..
+MÉRITOS A VALORAR: - Conocimientos avanzados de programación en python, y conocimiento de Jupyter
+Notebook, y Anaconda.
+- Conocimientos en Inteligencia Artificial. Especialmente valorable son los conocimiento en: técnicas de
+inteligencia artificial explicable, machine learning, y Large Language Models.
+- Conocimiento en Human Computer Interaction e Ingeniería de la Usabilidad.
+- Nivel alto del idioma inglés (mínimo B2).
+Página 1 de 2
+FECHA INICIO CONTRATO, A PARTIR DE: 24/11/2025.
+DEDICACIÓN: Jornada Completa Mañana y/o Tarde. (37.5 horas)
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-14. (REFERENCIA PLAZA: PLZ_PLI00002065)
+LÍNEA DE INVESTIGACIÓN: Contribucion española al desarrollo del instrumento MOSAIC para el telescopio
+ELT.
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: PID2021-123417OB-I00
+PROYECTO DE INVESTIGACIÓN: Contribución española a la fase de diseño preliminar de MOSAIC para el
+ELT
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL: JESUS GALLEGO MAESTRO
+DEPARTAMENTO INCORPORACIÓN: Física de la Tierra y Astrofísica.
+CENTRO: F.CC.FISICAS.
+CATEGORÍA: Contratado tipo 3.
+TITULACIÓN REQUERIDA: Master en Astrofisica
+TAREAS A REALIZAR: Diseño y ejecución de simulaciones numéricas sobre la interaccion entre galaxias
+satelite y las galaxias principales. Ciencia preparatoria para la explotacion cientifica del futuro instrumento
+MOSAIC. Enlace entre el proyecto MOSAIC y la empresa GMV. Escritura de articulos cientificos y generación
+de documentacion tecnica especializada. Cronograma de referencia:
+- 01/12/2025 - 01/03/2026 (3 meses): Análisis de galaxias enanas satélite en simulaciones cosmológicas, Este
+análisis servirá como ciencia preparatoria para el diseño de los futuros surveys de MOSAIC.
+-01/03/2026 - 01/06/2026 (3 meses): Publicación y divulgación de los resultados en revistas y conferencias.
+-01/12/2025 - 01/03/2026 (6 meses): Elaboración de un manual de uso de un prototipo de control de
+CALEMOS y del software de control ESO ICS del ELT..
+MÉRITOS A VALORAR: Conocimientos avanzados en herramientas de análisis de simulaciones numéricas
+(paquetes yt, ytree). Software de control de sistemas optomecánicos (Twincat). Buen nivel de inglés,
+recomendable C1 o superior. Experiencia en liderazgo de publicaciones científicas.
+FECHA INICIO CONTRATO, A PARTIR DE: 01/12/2025.
+Página 1 de 2
+DEDICACIÓN: Jornada Completa Partida. (37.5 horas)
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA: PLI62/25-15/2025-15. (REFERENCIA PLAZA: PLZ_PLI00002104)
+LÍNEA DE INVESTIGACIÓN: Investigación en “Ecosistemas implantables de bacterias modificadas
+genéticamente para el tratamiento personalizado de pacientes con enfermedades crónicas”.
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: 101130454
+PROYECTO DE INVESTIGACIÓN: Implantable Ecosystems of Genetically Modified Bacteria for the
+Personalized Treatment of Patients with Chronic Diseases
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL: FIVOS PANETSOS PETROVA
+DEPARTAMENTO INCORPORACIÓN: Biodiversidad, Ecología y Evolución.
+CENTRO: F.CC.BIOLOGICAS. Parque Científico de Madrid
+CATEGORÍA: Contratado tipo 3.
+TITULACIÓN REQUERIDA: Grado Biotecnológia, Biología + Master
+TAREAS A REALIZAR: • Desarrollar biomateriales biohíbridos basados en fibroína de seda con incorporación
+de materiales orgánicos. • Investigar y optimizar diversos formatos, composiciones y procesos de
+funcionalización, abarcando: * Geles, microfibras, mallas y sus combinaciones.
+* Bacterias, células y nano/microesferas que contengan fármacos o moléculas activas.
+* Funcionalización de biomateriales y células mediante técnicas químicas específicas..
+MÉRITOS A VALORAR: Experiencia en: Encapsulación de células en hidrogeles de fibroína de seda
+mediante química click
+FECHA INICIO CONTRATO, A PARTIR DE: 24/11/2025.
+DEDICACIÓN: Jornada Parcial 18,45 h.Mañana. (18.45 horas)
+Página 1 de 2
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: NO
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Anexo Convocatoria
+PLI62/25-15/2025
+CÓDIGO DE LA PLAZA:
+LÍNEA DE INVESTIGACIÓN: Protonterapia.
+PROYECTOS FINANCIADORES
+REFERENCIA PROYECTO: S2022/BMD-7434
+PROYECTO DE INVESTIGACIÓN: Advanced Strategies and new Approaches for Protontherapy
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL: DANIEL SANCHEZ PARCERISA
+DEPARTAMENTO INCORPORACIÓN: Estr. Materia, Fis. Térmica, Electrónica.
+CENTRO: F.CC.FISICAS.
+CATEGORÍA: Contratado tipo 1.
+TITULACIÓN REQUERIDA: Graduado en biotecnología
+TAREAS A REALIZAR: Planificación y realización de experimentos de radiobiología en condiciones de
+oxigenación controlada. Mantenimiento y crecimiento de líneas celulares de cáncer.
+Análisis de las propiedades tumorales y metástaticas de células de cáncer mediante técnicas de biología
+celular, microscopía, citometría de flujo, aislamiento de DNA, RNA y proteínas de
+cultivos celulares. Análisis de expresión de proteínas mediante técnicas bioquímicas (western blot, immu
+precipitación, elisa), microscopía confocal, PCR, qPCR. Análisis de datos con herramientas bioinformáticas
+implementadas en; MATLAB, R y manejo de python. Escritura de manuscritos y análisis de resultados..
+MÉRITOS A VALORAR: Máster en Biotecnología o similar. Experiencia investigadora a nivel doctoral o
+predoctoral. Experiencia en técnicas experimentales en bioquímica, biología celular y molecular.
+Conocimientos sobre radioterapia / radiobiología. Experiencia trabajando con radiaciones ionizantes.
+FECHA INICIO CONTRATO, A PARTIR DE: 08/12/2025.
+Página 1 de 2
+PLI62/25-15/2025-16. (REFERENCIA PLAZA: PLZ_PLI00002244)
+Es requisito imprescindible que los candidatos a esta plaza hayan presentado
+previamente su solicitud en la oferta publicada en el portal de empleo de la Comunidad
+de Madrid: https://gestiona.comunidad.madrid/poem_webapp/#/ver-oferta/58287
+DEDICACIÓN: Jornada Completa Partida. (37.5 horas)
+SALARIO MES:De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?: SI
+¿Requiere DACI?: NO
+¿Esta plaza podrá disponer de colaboración docente?: NO
+Página 2 de 2
+Página 1 de 2
+CÓDIGO DE LA PLAZA PLI62/25-15/2025-17. (REFERENCIA PLAZA
+Anexo Convocatoria
+PLI62/25-15/2025
+PLZ_PLI00002161)
+LÍNEA DE INVESTIGACIÓN: MEJORA EN LOS PROCESOS DE GESTIÓN Y ACTIVACIÓN DE LA
+PARTICIPACIÓN DE LA UNIVERSIDAD COMPLUTENSE EN PROYECTOS EUROPEOS DE
+FINANCIACIÓN A LA I+D
+NÚMERO DE PLAZAS: 1.
+INVESTIGADOR PRINCIPAL: LUCIA DE JUAN FERRE.
+DEPARTAMENTO INCORPORACIÓN: VICEGERENCIA INVESTIGACIÓN.
+CENTRO: VICEG. INVESTIGACIÓN. Oficina Europea
+TITULACIÓN REQUERIDA: Grado 240 ECTS + Al menos 2 años de experiencia en gestión de proyectos
+TAREAS A REALIZAR: Promoción de la participación en programas internacionales de financiación de la
+I+D+i, tanto en convocatorias individuales como en consorcios: identificación de oportunidades, difusión,
+asesoramiento integral a investigadores, y análisis de la adecuación de ideas de proyecto. Apoyo en el diseño
+inicial de propuestas, revisión de memorias técnicas, incorporación de aspectos transversales exigidos y
+orientación sobre los procedimientos de ejecución. Evaluación de la alineación de propuestas con prioridades
+estratégicas. Representación institucional ante gestores, intermediarios y organizaciones clave, y participación
+en redes externas para posicionar a la Universidad. Difusión de los resultados de investigación financiada por
+programas internacionales..
+MÉRITOS A VALORAR: 1- Experiencia como técnico de promoción en oficina de proyectos europeos o
+similar, y/o en consultoría de
+proyectos europeos redactando propuestas o captando financiación en convocatorias competitivas
+(especialmente de Programa Marco);
+2- Disponer de las habilidades técnicas (p.e. experiencia en la escritura y/o revisión de propuestas de
+Programa Marco) para desarrollar las funciones del puesto;
+3- Tener sólidos conocimientos sobre el sistema europeo de I+D+i, y el marco normativo del Programa Ma
+FECHA INICIO CONTRATO, A PARTIR DE: 24/11/2025.
+CATEGORÍA: Contratado tipo 4.
+JORNADA: Jornada Completa Partida NÚMERO DE HORAS SEMANALES: 37.5.
+(cid:9)SALARIO MES: De conformidad con la normativa UCM de aplicación y las tablas salariales aprobadas,
+publicadas y vigentes, los salarios correspondientes a las plazas de esta convocatoria quedan ajustadas a los
+salarios publicados en este enlace para cada categoría:
+https://www.ucm.es/portaldetransparencia/retribuciones-investigadores-laborales
+¿Requiere inscripción en la CM?:NO
+¿Requiere DACI?:NO
+¿Esta plaza podrá disponer de colaboración docente?:NO
+Página 2 de 2
